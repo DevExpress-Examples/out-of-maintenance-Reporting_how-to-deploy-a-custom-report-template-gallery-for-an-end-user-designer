@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -53,22 +53,24 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v12.2.Core" />
-    <Reference Include="DevExpress.Data.v12.2" />
-    <Reference Include="DevExpress.PivotGrid.v12.2.Core" />
-    <Reference Include="DevExpress.Printing.v12.2.Core" />
-    <Reference Include="DevExpress.Office.v12.2.Core" />
-    <Reference Include="DevExpress.RichEdit.v12.2.Core" />
-    <Reference Include="DevExpress.Utils.v12.2" />
-    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard" />
-    <Reference Include="DevExpress.XtraCharts.v12.2" />
-    <Reference Include="DevExpress.XtraEditors.v12.2" />
-    <Reference Include="DevExpress.XtraPivotGrid.v12.2" />
-    <Reference Include="DevExpress.XtraPrinting.v12.2" />
-    <Reference Include="DevExpress.Utils.v12.2.UI " />
-    <Reference Include="DevExpress.XtraReports.v12.2" />
-    <Reference Include="DevExpress.Reports.v12.2.Designer" />
-    <Reference Include="DevExpress.XtraReports.v12.2.Extensions" />
+    <Reference Include="DevExpress.Charts.v13.1.Core" />
+    <Reference Include="DevExpress.Data.v13.1" />
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core" />
+    <Reference Include="DevExpress.Printing.v13.1.Core" />
+    <Reference Include="DevExpress.Office.v13.1.Core" />
+    <Reference Include="DevExpress.Docs.v13.1" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core" />
+    <Reference Include="DevExpress.Utils.v13.1" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard" />
+    <Reference Include="DevExpress.XtraCharts.v13.1" />
+    <Reference Include="DevExpress.XtraEditors.v13.1" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1" />
+    <Reference Include="DevExpress.Utils.v13.1.UI " />
+    <Reference Include="DevExpress.Sparkline.v13.1.Core" />
+    <Reference Include="DevExpress.XtraReports.v13.1" />
+    <Reference Include="DevExpress.Reports.v13.1.Designer" />
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions" />
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
