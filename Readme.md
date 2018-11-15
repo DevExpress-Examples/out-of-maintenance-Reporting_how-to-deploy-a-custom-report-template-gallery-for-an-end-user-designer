@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [app.config](./CS/ReportGallerySample/app.config) (VB: [app.config](./VB/ReportGallerySample/app.config))
+* [Form1.cs](./CS/ReportGallerySample/Form1.cs) (VB: [Form1.vb](./VB/ReportGallerySample/Form1.vb))
+<!-- default file list end -->
 # How to deploy a custom report template gallery for an End-User Designer
 
 
