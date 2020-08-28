@@ -104,9 +104,6 @@
     <Reference Include="DevExpress.XtraReports.v13.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Reports.v13.1.Designer">
-      <Private>True</Private>
-    </Reference>
     <Reference Include="DevExpress.XtraReports.v13.1.Extensions">
       <Private>True</Private>
     </Reference>

@@ -69,7 +69,6 @@
     <Reference Include="DevExpress.Utils.v13.1.UI " />
     <Reference Include="DevExpress.Sparkline.v13.1.Core" />
     <Reference Include="DevExpress.XtraReports.v13.1" />
-    <Reference Include="DevExpress.Reports.v13.1.Designer" />
     <Reference Include="DevExpress.XtraReports.v13.1.Extensions" />
     <Reference Include="System" />
     <Reference Include="System.Core">
